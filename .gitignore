@@ -1,6 +1,4 @@
 *
-!*.*
-!*/
 
 !*.cc
 !*.h
@@ -8,7 +6,11 @@
 !*.sh
 !Makefile
 
-Weight-Stationary/data
-Weight-Stationary/exe
-Weight-Stationary/vcd
-Weight-Stationary/cplusplus/obj
+*.o
+
+/Weight-Stationary/data
+/Weight-Stationary/exe
+/Weight-Stationary/vcd
+/Weight-Stationary/cpluscplus/obj/
+
+.gitignore
