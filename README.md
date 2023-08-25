@@ -1,5 +1,5 @@
 # Systolic-Array
-Implemented Systolic-Array that performs GEMM operation.
+Implemented Systolic-Array that performs GEMM operation in Verilog HDL.
 
 ## Dataflow
 <img src="/Weight-Stationary/image/SystolicArray.jpg">
