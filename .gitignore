@@ -1,0 +1,14 @@
+*
+!*.*
+!*/
+
+!*.cc
+!*.h
+!*.v
+!*.sh
+!Makefile
+
+Weight-Stationary/data
+Weight-Stationary/exe
+Weight-Stationary/vcd
+Weight-Stationary/cplusplus/obj
