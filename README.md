@@ -1,8 +1,8 @@
 # Systolic-Array
 Implemented Systolic-Array that performs GEMM operation in Verilog HDL.
 
-## Dataflow
+## WS Systolic Array Dataflow
 <img src="/Weight-Stationary/image/SystolicArray.jpg">
 
-## Waveform
+## WS Systolic Array Waveform
 <img src="/Weight-Stationary/image/SystolicArray2.jpg">
